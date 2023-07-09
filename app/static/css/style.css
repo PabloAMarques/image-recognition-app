@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  form {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  #results {
+    margin-top: 20px;
+  }
+  
+  #emotion-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .emotion-item {
+    margin-bottom: 10px;
+    font-weight: bold;
+  }
+  
+  .error {
+    color: red;
+  }
+  
